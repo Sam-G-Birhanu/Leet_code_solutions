@@ -1,5 +1,5 @@
 # Leet_code_solutions
-Check out [My leetcode profile](https://leetcode.com/samrawitguangulb/)
+Check out [My leetcode profile](https://leetcode.com/samrawitguangulb/).
 This repository contains my solutions  to various problems on [LeetCode](https://leetcode.com/).
 
 ## Structure
