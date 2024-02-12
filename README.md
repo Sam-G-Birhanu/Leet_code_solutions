@@ -1,5 +1,5 @@
 # Leet_code_solutions
-[My leetcode profile](https://leetcode.com/samrawitguangulb/)
+Check out [My leetcode profile](https://leetcode.com/samrawitguangulb/)
 This repository contains my solutions  to various problems on [LeetCode](https://leetcode.com/).
 
 ## Structure
@@ -12,10 +12,7 @@ This repository contains my solutions  to various problems on [LeetCode](https:/
   
 ## Contents
 
-- [Problem 1: Two Sum](./Problem%201%20-%20Two%20Sum/)
-- [Problem 2: Add Two Numbers](./Problem%202%20-%20Add%20Two%20Numbers/)
-- [Problem 3: Longest Substring Without Repeating Characters](./Problem%203%20-%20Longest%20Substring%20Without%20Repeating%20Characters/)
-  <!-- Add more problems here -->
+- [Problem 1: Pascal's Triangle](https://leetcode.com/submissions/detail/1173358035/)
 
 ## About
 
